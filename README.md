@@ -1,4 +1,4 @@
-# Austrial Tax Calculator
+# Australian Tax Calculator
 
 Technology Used : Nodejs
 Framework : Fastify.js
