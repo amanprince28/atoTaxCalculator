@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "AMAN KUMAR",
+  "author": "Aman Kumar",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.10.0"
+    "fastify": "^2.10.0",
+    "passport-google-oauth2": "^0.2.0"
   }
 }
