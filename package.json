@@ -9,7 +9,7 @@
   "author": "Aman Kumar",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.10.0",
+    "fastify": "^2.15.1",
     "passport-google-oauth2": "^0.2.0"
   }
 }
